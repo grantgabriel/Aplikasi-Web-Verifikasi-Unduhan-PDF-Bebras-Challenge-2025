@@ -1,0 +1,2 @@
+# Blokir akses langsung ke folder PDF
+deny from all
